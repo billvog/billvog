@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**billvog/billvog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19 yo dude from 🇬🇷 Greece, currently pursuing a bachelor's degree in the Computer Science and Telecommunications department of the University of Thessaly.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Computer Science Student
+
+- 🧠 Vim Magician
+
+- 📽️ Soft Spot for Cinema
+
+- 🎵 Music Enthusiast and Composer
+
+## You can find me online 🔎
+
+- [Personal Website](https://billv.org)
+
+- [LinkedIn](https://www.linkedin.com/in/vasilis-voyiadjis/)
+
+- [Soundcloud](https://soundcloud.com/voyajis)
