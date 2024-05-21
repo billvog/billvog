@@ -14,7 +14,7 @@ I'm a 19 yo dude from 🇬🇷 Greece, currently pursuing a bachelor's degree in
 
 ## You can find me online 🔎
 
-- [Personal Website](https://billv.org)
+- [Personal Website](https://billvog.com)
 
 - [LinkedIn](https://www.linkedin.com/in/vasilis-voyiadjis/)
 
