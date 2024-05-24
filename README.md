@@ -18,4 +18,4 @@ I'm a 19 yo dude from 🇬🇷 Greece, currently pursuing a bachelor's degree in
 
 - [LinkedIn](https://www.linkedin.com/in/vasilis-voyiadjis/)
 
-- [Soundcloud](https://soundcloud.com/voyajis)
+- [Soundcloud](https://soundcloud.com/billvog)
