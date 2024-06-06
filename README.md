@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a 19 yo dude from 🇬🇷 Greece, currently pursuing a bachelor's degree in the Computer Science and Telecommunications department of the University of Thessaly.
+I'm a 20yo dude from 🇬🇷 Greece, currently pursuing a bachelor's degree in the Computer Science and Telecommunications department of the University of Thessaly.
 
 ## About me
 
