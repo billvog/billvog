@@ -12,7 +12,7 @@ I'm a 20yo dude from 🇬🇷 Greece, currently pursuing a bachelor's degree in 
 
 - 🎵 Music Enthusiast and Composer
 
-- 👷 Currently Building [unibus.gr](https://unibus.gr/?utm_source=github&utm_medium=social&utm_campaign=promotion&utm_content=readme)
+- 👷 Currently Building [unibus.gr](https://unibus.gr/company/?utm_source=github&utm_medium=social&utm_campaign=promotion&utm_content=readme)
 
 ## You can find me online 🔎
 
