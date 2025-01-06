@@ -6,7 +6,7 @@ I'm a 20yo dude from 🇬🇷 Greece, currently pursuing a bachelor's degree in 
 
 - 💻 Computer Science Student
 
-- 🧠 Vim Magician
+- 🥷 Vim Ninja
 
 - 📽️ Soft Spot for Cinema
 
@@ -16,7 +16,7 @@ I'm a 20yo dude from 🇬🇷 Greece, currently pursuing a bachelor's degree in 
 
 ## You can find me online 🔎
 
-- [Personal Website](https://billvog.com)
+- [Personal Website](https://billvog.com?ref=gh-readme)
 
 - [LinkedIn](https://www.linkedin.com/in/vasilis-voyiadjis/)
 
